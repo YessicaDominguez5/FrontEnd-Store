@@ -1,0 +1,15 @@
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\bin\Debug\net8.0\FrontEnd-Store.exe
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\bin\Debug\net8.0\FrontEnd-Store.deps.json
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\bin\Debug\net8.0\FrontEnd-Store.runtimeconfig.json
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\bin\Debug\net8.0\FrontEnd-Store.dll
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\bin\Debug\net8.0\FrontEnd-Store.pdb
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\FrontEnd-Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\FrontEnd-Store.AssemblyInfoInputs.cache
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\FrontEnd-Store.AssemblyInfo.cs
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\FrontEnd-Store.csproj.CoreCompileInputs.cache
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\FrontEnd-Store.sourcelink.json
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\FrontEnd-Store.dll
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\refint\FrontEnd-Store.dll
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\FrontEnd-Store.pdb
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\FrontEnd-Store.genruntimeconfig.cache
+C:\Users\Juaniyeppi\Downloads\FrontEndStore\FrontEnd-Store\obj\Debug\net8.0\ref\FrontEnd-Store.dll
