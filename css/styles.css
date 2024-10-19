@@ -124,14 +124,6 @@ font-family: var(--fuentePrincipal);
 
 }
 
-.producto__imagen{
-
-
-}
-.producto__informacion{
-
-
-}
 .producto__nombre{
 
   font-size: 4rem;
@@ -203,13 +195,6 @@ font-family: var(--fuentePrincipal);
   }
 }
      
-
-.nosotros__contenido{
-
-  
-
-}
-
 .nosotros__imagen{
 
   
@@ -259,10 +244,6 @@ text-align: center;
   margin: 0;
 
 }
-.bloque__imagen{
-
-
-}
 
 /*Detalle del producto*/
 
@@ -277,12 +258,36 @@ text-align: center;
 }
 .formulario{
 
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+
 
 }
 .formulario__campo{
 
+  border-color: var(--primarioOscuro);
+  border-width: 1rem;
+  border-style: solid;
+
+  /*lo mismo en una sola linea*/
+  /*border: 1rem solid var(--primarioOscuro)*/
+
+  background-color: transparent;
+  color: var(--blanco);
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1rem;
+  appearance: none;/*saca la flecha para cambiar el talle*/
+
 
 }
+.talle{
+
+  background-color: transparent;
+  color:var(--negro)
+}
+
 .formulario__submit{
 
   background-color: var(--secundario);
@@ -290,12 +295,16 @@ text-align: center;
   font-size: 2rem;
   font-family: var(--fuentePrincipal);
   padding: 2rem;
+ /*transition: font-size .3s ease; transición para que no se agrande la letra de golpe al font-size del hover*/
+  transition: background-color .3s ease; /*hace la transición de un color a otro*/
+  grid-column: 1/3; /*que el boton ocupe el ancho de los 2 campos talle y cantidad*/
 
 }
 .formulario__submit:hover{
 
   cursor: pointer;
   background-color: var(--secundarioOscuro);
+  /*font-size: 2.4rem;*/
 
 }
 
